@@ -74,3 +74,9 @@ NOVAS FOTOS E LOGO:
 - Logo oficial adicionado ao cabeçalho, rodapé e seção Sobre.
 - 5 fotos reais adicionadas ao portfólio.
 - Foto real de telhado usada na abertura do site.
+
+
+VERSÃO SEM PASTAS PARA GITHUB:
+Todos os arquivos estão no mesmo nível.
+No GitHub, selecione TODOS os arquivos descompactados e faça upload de uma vez.
+Não envie o arquivo ZIP.
