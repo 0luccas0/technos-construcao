@@ -1,0 +1,76 @@
+TECHNOS CONSTRUÇÃO — SITE PRONTO
+
+1. COMO TESTAR
+- Abra o arquivo index.html no navegador.
+- O site funciona em computador e celular.
+
+2. COLOCAR O WHATSAPP
+- Abra o arquivo script.js.
+- Procure:
+  const WHATSAPP_NUMBER = "";
+- Coloque o número com 55 + DDD + telefone, somente números.
+  Exemplo fictício:
+  const WHATSAPP_NUMBER = "5513999999999";
+
+3. COLOCAR AS FOTOS DAS OBRAS
+- Crie uma pasta chamada "fotos" dentro da pasta do site.
+- Salve imagens como:
+  obra1.jpg
+  obra2.jpg
+  obra3.jpg
+- No index.html, substitua cada bloco "photo-placeholder" por:
+  <img src="fotos/obra1.jpg" alt="Descrição da obra" class="portfolio-photo">
+
+- Depois acrescente em styles.css:
+  .portfolio-photo{width:100%;height:270px;object-fit:cover;display:block}
+
+4. TELEFONE NO GOOGLE / SEO
+- No index.html, procure:
+  "telephone": "ADICIONE_O_TELEFONE_AQUI"
+- Troque pelo telefone da empresa.
+
+5. DOMÍNIO
+Escolha algo curto e profissional, por exemplo:
+- technosconstrucao.com.br
+- technosreformas.com.br
+- technosobras.com.br
+
+6. PUBLICAR
+Opção simples:
+- Contrate uma hospedagem que aceite arquivos HTML.
+- Crie o domínio.
+- Envie index.html, styles.css e script.js para a pasta pública da hospedagem.
+- Ative HTTPS/SSL.
+
+Opção gratuita para testar:
+- Publique os arquivos em um serviço de hospedagem estática.
+- Depois conecte o domínio profissional.
+
+7. MELHORIAS IMPORTANTES DEPOIS
+- Adicionar 8 a 15 fotos reais de serviços.
+- Adicionar 3 a 6 avaliações de clientes (com autorização).
+- Adicionar botão de ligação.
+- Adicionar link do Perfil da Empresa no Google.
+- Adicionar páginas separadas para:
+  /reformas
+  /pintura
+  /impermeabilizacao
+  /condominios
+Isso ajuda o Google a entender melhor os serviços.
+
+8. REGRA MAIS IMPORTANTE
+Não publique fotos genéricas de banco de imagens como se fossem obras da empresa.
+Use fotos reais. Elas passam muito mais confiança.
+
+
+ATUALIZAÇÃO:
+- WhatsApp configurado: (13) 97422-3354
+- Instagram adicionado
+- Atendimento destacado: Santos, Vila Matias e Campos Mello
+- Mais de 10 anos de experiência adicionados ao site
+
+
+NOVAS FOTOS E LOGO:
+- Logo oficial adicionado ao cabeçalho, rodapé e seção Sobre.
+- 5 fotos reais adicionadas ao portfólio.
+- Foto real de telhado usada na abertura do site.
