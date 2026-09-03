@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://technosconstrucao.com.br/sitemap.xml
